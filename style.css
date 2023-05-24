@@ -2,3 +2,10 @@ body {
     background-color:#210253;
     color: rgb(107, 107, 211);
 }
+.cabecalho{
+        background-color: #383d58;
+        color: white;
+        justify-content: space-around;
+        width: 20%;
+        height: 20%;
+}
